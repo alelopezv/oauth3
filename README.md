@@ -185,6 +185,8 @@ Esto permite escalar fácilmente (ej: agregar JWT, OAuth, MFA completo).
 
 ## 👨‍💻 Autor
 
+Alejandro López
+
 Proyecto desarrollado como práctica avanzada de backend con Django + Docker.
 
 ```
