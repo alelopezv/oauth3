@@ -1,0 +1,81 @@
+# 🐍 Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Entornos virtuales
+
+venv/
+env/
+ENV/
+
+# Archivos de entorno (IMPORTANTE 🔒)
+
+.env
+
+# Base de datos local
+
+db.sqlite3
+
+# Archivos de logs
+
+*.log
+
+# Archivos temporales
+
+*.swp
+*.tmp
+
+# Django
+
+*.pot
+*.pyc
+local_settings.py
+
+# Archivos de media/static generados
+
+/media/
+/staticfiles/
+
+# VS Code
+
+.vscode/
+
+# PyCharm
+
+.idea/
+
+# Mac
+
+.DS_Store
+
+# Windows
+
+Thumbs.db
+
+# Docker (opcional)
+
+docker-compose.override.yml
+
+# Archivos compilados
+
+*.so
+
+# Coverage / testing
+
+htmlcov/
+.coverage
+.cache
+pytest_cache/
+
+# Migrations
+
+# Si trabajas en equipo, NO ignores migrations
+
+# migrations/
+
+# Archivos de sistema
+
+*.sqlite3
